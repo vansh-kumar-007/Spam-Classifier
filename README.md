@@ -110,8 +110,8 @@ Spam-Classifier/
 
 ## 🌐 Live Demo
 
-* Frontend: *[Add your Streamlit link here](https://spam-classifier-a4i5b83fnzxtpe8nwsqefy.streamlit.app/)*
-* API Docs: *[Add your Render `/docs` link here](https://spam-classifier-ps0y.onrender.com/docs)*
+* Frontend: *[Streamlit link](https://spam-classifier-a4i5b83fnzxtpe8nwsqefy.streamlit.app/)*
+* API Docs: *[Render `/docs` ](https://spam-classifier-ps0y.onrender.com/docs)*
 
 ---
 
