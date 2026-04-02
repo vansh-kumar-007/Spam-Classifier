@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
 
 
 
@@ -117,6 +118,10 @@ Spam-Classifier/
 
 * Frontend: *[Streamlit link](https://spam-classifier-a4i5b83fnzxtpe8nwsqefy.streamlit.app/)*
 * API Docs: *[Render `/docs` ](https://spam-classifier-ps0y.onrender.com/docs)*
+
+## 🏗️ System Architecture
+
+Streamlit UI → FastAPI Backend → ML Model (SVM + TF-IDF)
 
 
 ## 📸 Screenshots
