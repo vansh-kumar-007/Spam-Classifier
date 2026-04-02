@@ -1,4 +1,9 @@
 # 📩 Spam Classifier (Email/SMS)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-orange)
+
+
 
 A complete end-to-end machine learning project that classifies messages as **Spam** or **Ham (Not Spam)**.
 This project covers everything from data preprocessing and model building to API development, frontend integration, and cloud deployment.
