@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API URL
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://spam-classifier-ps0y.onrender.com//predict"
 
 st.set_page_config(page_title="Spam Classifier", page_icon="📩")
 
