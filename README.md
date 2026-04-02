@@ -118,6 +118,37 @@ Spam-Classifier/
 * Frontend: *[Streamlit link](https://spam-classifier-a4i5b83fnzxtpe8nwsqefy.streamlit.app/)*
 * API Docs: *[Render `/docs` ](https://spam-classifier-ps0y.onrender.com/docs)*
 
+
+## 📸 Screenshots
+
+### 🔹 Streamlit UI
+![Streamlit UI](screenshots/ui.png)
+
+*User interface showing spam prediction with probability score*
+
+---
+
+### 🔹 API Overview (Swagger Docs)
+![API Home](screenshots/api_home.png)
+
+*FastAPI interactive documentation interface*
+
+---
+
+### 🔹 Predict Endpoint
+![Predict Endpoint](screenshots/api_predict.png)
+
+*POST /predict endpoint for spam classification*
+
+---
+
+### 🔹 API Request Example
+![API Request](screenshots/api_request.png)
+
+*Example request body and response structure*
+
+
+
 ---
 
 ## 🧪 API Example
